@@ -2,7 +2,7 @@ class Images {
   Images._();
 
   // Picture
-  static const String programmer3 = 'assets/images/programmer-3.gif';
+  static const String programmer3 = 'assets/images/Image.png';
 
   // social icons
   static const String dribble = 'assets/icons/ic_dribbble.png';

@@ -6,8 +6,8 @@ class Strings {
 
   static const String about = 'About';
   static const String me = ' Me';
-  static const String firstName = 'Firstname';
-  static const String lastName = 'Lastname';
+  static const String firstName = 'Vijay';
+  static const String lastName = 'Vittal';
   static const String headline = 'Your headline here!';
   static const String summary =
       'Lorem Ipsum is simply dummy text of the printing and typesetting industry.';
