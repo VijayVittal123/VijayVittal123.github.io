@@ -61487,7 +61487,7 @@ s=$.abb.aw()
 $.zc().toString
 s=108*(s/1080)
 r=A.oS(n,n,B.j,n,n,n,n,n,n,n,n,14,n,n,n,n,n,!0,n,n,n,n,n,n,n,n)
-r=A.YZ(n,n,B.bw,n,n,!0,n,A.iN(A.a([A.iN(n,B.uS,"Firstname"),A.iN(n,B.uS.d8(new A.T(4283477952)),"Lastname")],t.sU),r,n),B.aO,n,n,1,B.ar)
+r=A.YZ(n,n,B.bw,n,n,!0,n,A.iN(A.a([A.iN(n,B.uS,"Vijay"),A.iN(n,B.uS.d8(new A.T(4283477952)),"Vittal")],t.sU),r,n),B.aO,n,n,1,B.ar)
 if(a.O(t.w).f.a.a<768){q=this.Pt()
 p=A.aU([null,0],t.st,t.S)
 o=!0
@@ -61518,7 +61518,7 @@ $.zc()
 s=$.abb.aw()
 $.zc().toString
 r=t.E
-s=A.ej(A.a([A.nl(A.uT(A.a([j,A.CJ("assets/images/programmer-3.gif",l,345*(s/1080),l)],r),B.av,B.T,B.a7),1),k.Bv(a)],r),B.av,B.T,B.bp)
+s=A.ej(A.a([A.nl(A.uT(A.a([j,A.CJ("assets/images/Image.png",l,345*(s/1080),l)],r),B.av,B.T,B.a7),1),k.Bv(a)],r),B.av,B.T,B.bp)
 j=A.ej(A.a([A.nl(A.uT(A.a([A.nl(k.ud(a),1)],r),B.av,B.T,B.a7),1),k.Bv(a)],r),B.av,B.T,B.bp)
 q=A.nl(k.ud(a),1)
 p=A.adN()
